@@ -9,10 +9,7 @@ public class Main
 	System.out.println("Sum of " + z + " and " + x + " equals " + sum(z, x) + ".");
 	System.out.println("Sum of " + x + " and " + z + " equals " + sum(x, z) + ".");
 	System.out.println("Sum of " + x + " and " + x + " equals " + sum(x, x) + ".");
-<<<<<<< HEAD
 	System.out.println("2 * 2 = " + mult(2, 2));
-=======
->>>>>>> upstream/master
     }
     
     public static int sum(int a, int b) {

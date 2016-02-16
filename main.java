@@ -6,10 +6,10 @@ public class Main
 	System.out.println("One more line here");
 	int z = 1;
 	int x = 2;
+	int y = 3;
 	System.out.println("Sum of " + z + " and " + x + " equals " + sum(z, x) + ".");
-	System.out.println("Sum of " + x + " and " + z + " equals " + sum(x, z) + ".");
-	System.out.println("Sum of " + x + " and " + x + " equals " + sum(x, x) + ".");
 	System.out.println("2 * 2 = " + mult(2, 2));
+	System.out.println("Sum of " + y + " and " + y + " equals " + sum(y, y) + ".");
     }
     
     public static int sum(int a, int b) {

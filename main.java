@@ -12,6 +12,8 @@ public class Main
 	System.out.println("2 * 2 = " + mult(2, 2));
 	System.out.println("Sum of " + y + " and " + y + " equals " + sum(y, y) + ".");
 	System.out.println("Sum of " + a + " and " + a + " equals " + sum(a, a) + ".");
+	//From sranch branch
+	System.out.println("3 * 3 = " + mult(3, 3));
     }
     
     public static int sum(int a, int b) {
